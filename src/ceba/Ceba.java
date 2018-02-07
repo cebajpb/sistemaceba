@@ -16,7 +16,7 @@ public class Ceba {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("ceba.Ceba.main()");
+        System.out.println("hola mundo");
     }
     
 }
